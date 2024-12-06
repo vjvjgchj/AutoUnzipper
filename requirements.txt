@@ -1,0 +1,5 @@
+inotify==0.2.10
+pytablewriter==1.2.0
+PyYAML==6.0.2
+rarfile==4.2
+Requests==2.32.3
