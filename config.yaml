@@ -1,16 +1,7 @@
 product_lines:
-  - name: 产品线A
-    watch_directories:
-      - path: /path/to/monitor1
-        extract_mode: direct
-      - path: /path/to/monitor2
-        extract_mode: nested
-    notification:
-      dingtalk:
-        webhook_url: https://oapi.dingtalk.com/robot/send?access_token=YOUR_ACCESS_TOKEN
-  - name: 产品线B
-    watch_directories:
-      - path: /path/to/monitor3
+   - name: 产品线B
+    watch_directories:D:\图包
+      - path:D:\图包
         extract_mode: nested
     notification:
       dingtalk:
